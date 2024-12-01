@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![image](https://github.com/user-attachments/assets/8d16193b-3e07-4715-9754-e094a4ace71b)
+
 
 <!--
 **ManingLearchine123/ManingLearchine123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
